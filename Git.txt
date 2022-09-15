@@ -2,3 +2,4 @@ Início da Aula de Git
 Alteração do arquivo git.txt
 Terceira alteração no arquivo git.txt
 Quarta alteração no arquivo 
+Quinta alteração, feita no pc de casa.
