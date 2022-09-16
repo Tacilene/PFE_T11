@@ -10,7 +10,7 @@
 
 ### git init
 
-- Criar a estrutura inicial do repositório Git no computador local
+- Criar novo repositório no computador local
 
 ```css
 $ git init
@@ -18,7 +18,7 @@ $ git init
 
 ### git config --global user.name e git config --global user.email
 
-- Nomeia e cadastra o usuário, para identificar quem fez cada alteração
+- Setar usuário e Setar e-mail
 
 ```css
 $ git config --global user.name e git config --global user.email
@@ -26,7 +26,7 @@ $ git config --global user.name e git config --global user.email
 
 ### git status
 
-- Verificar se obteve alteração no projeto
+- Verificar estado dos arquivos/diretórios
 
 ```css
 $ git status
@@ -34,7 +34,7 @@ $ git status
 
 ### git add 
 
-<p align="justify"> Adiciona todas as alterações na staging
+- Adicionar arquivo/diretório
 
 ```css
 $ git add
@@ -42,7 +42,7 @@ $ git add
 
 ### git commit -m
 
-<p align="justify"> Salva e nomeia as alterações
+- Comitar informativo mensagem
 
 ```css
 $ git commit -m 
