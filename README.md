@@ -139,7 +139,7 @@ $ git checkout nome-da-branch
 ```css
 $ git merge nome da branch
 ```
-[![NPM](https://img.shields.io/np/l/react)](
+
 ## 💻Autora do Projeto
 
 🙋[Tacilene Palheta](https://github.com/Tacilene)
