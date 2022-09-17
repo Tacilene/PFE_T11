@@ -54,6 +54,7 @@ $ git commit -m
 
 ```css
 $ git log
+```
 
 ### git reset --hard
 
