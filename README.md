@@ -140,6 +140,8 @@ $ git checkout nome-da-branch
 $ git merge nome da branch
 ```
 
+## [![NPM](https://shields.io/category/license)](
+
 ## 💻Autora do Projeto
 
 🙋[Tacilene Palheta](https://github.com/Tacilene)
