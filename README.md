@@ -57,14 +57,14 @@ $ git log
 
 ### git reset --hard
 
-- Redefine o índice e a árvore de trabalho. Quaisquer alterações nos arquivos rastreados na árvore de trabalho desde *commit* serão descartados.
+- Redefinir o índice e a árvore de trabalho
 
 ```css
 $ git reset --hard
 ```
 ### git remote add origin "destino"
 
-- Informa a pasta remota
+- Informar a pasta remota
 
 ```css
 $ git remote add origin main
@@ -72,14 +72,14 @@ $ git remote add origin main
 
 ### git remote -v
 
-- visualiza o repositório remoto
+- Visualizar o repositório remoto
 ``` css
 $ git remote -v
 ```
 
 ### git pull
 
-- Baixa o repositório remoto
+- Atualizar os arquivos no branch atual
 
 ```css
 $ git pull
@@ -87,7 +87,7 @@ $ git pull
 
 ### git push -u origin main
 
-- Publica as alterações realizadas na main no repositório remoto
+- Enviar arquivos/diretórios para o repositório remoto
 
 ```css
 $ git push -u origin main
@@ -95,14 +95,14 @@ $ git push -u origin main
 
 ### git clone "link"
 
-- Clona a pasta do repositório remoto
+- Clonar a pasta do repositório remoto já existente
 ```css
-$git clone
+$ git clone
 ```
 
 ### git checkout -b nome-da-branch
 
--  Cria e vai para uma nova branch
+-  Criar e vai para uma nova branch
 
 ```css
 $ git checkout -b nome-da-branch
@@ -110,15 +110,15 @@ $ git checkout -b nome-da-branch
 
 ### git push -u origin nome da branch
 
--  Publica as alterações que foram realizadas na branch especificada para o repositório remoto
+-  Publicar as modificações que foram executados na branch minuciado para o repositório remoto
 
 ```css
-$git push -u origin nome da branch
+$ git push -u origin nome da branch
 ```
 
 ### git checkout main
 
-- Vai para a branch main
+- Ir para a branch main
 
 ```css
 $ git checkout main
@@ -126,18 +126,18 @@ $ git checkout main
 
 ### git checkout nome-da-branch
 
-- Vai para a branch nomeada
+- Ir para a branch nomeada
 
 ```css
-$git checkout nome-da-branch
+$ git checkout nome-da-branch
 ```
 
 ### git merge nome da branch
 
-- Adiciona o conteúdo da branch informada na branch atual
+- Aderir o conteúdo da branch destacada na branch atual
 
 ```css
-$git merge nome da branch
+$ git merge nome da branch
 ```
 
 ## 💻Autora do Projeto
