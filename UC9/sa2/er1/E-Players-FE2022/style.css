@@ -1,4 +1,4 @@
-/* CSS Reset */
+/*CSS Reset*/
 *{
     margin:0;
     padding:0;
@@ -8,8 +8,7 @@
 
 header{
     background-color: #1E1C21;
-    width: 1875px;
-    height: 82px;
+    height: 100px;
 }
 
 .container-grid{
@@ -29,9 +28,10 @@ header{
     text-decoration: none;
     text-transform: uppercase;
 }
-
+    
 .menu{
     width: 700px;
     display: flex;
     justify-content: space-between;
 }
+
