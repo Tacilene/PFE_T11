@@ -1,4 +1,18 @@
 {
+  "users": [
+    {
+      "email": "curso@email.com",
+      "password": "25548962",
+      "nome": "frontend",
+      "id": "1"
+    },
+    {
+      "email": "front@email.com",
+      "password": "$2a$10$v6arIXToXGIS4naxRUQL8eCVJciLDXpVzG2bv0uH5AjxeB3ylg7fO",
+      "nome": "frontend",
+      "id": "bsgCYlb"
+    }
+  ],
   "noticias": [
     {
       "id": 1,
