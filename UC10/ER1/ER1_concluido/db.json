@@ -4,37 +4,37 @@
       "id": 1,
       "imagem": "assets/img/cardnews.jpg",
       "titulo": "Teste",
-      "descrição": "Testando o Json"
+      "descricao": "Testando o Json"
     },
     {
       "id": 2,
       "imagem": "assets/img/cardnews.jpg",
       "titulo": "Teste de Json",
-      "descrição": "Testando novamente o Json"
+      "descricao": "Testando novamente o Json"
     },
     {
       "id": 3,
       "imagem": "assets/img/cardnews.jpg",
       "titulo": "Teste",
-      "descrição": "Testando o Json"
+      "descricao": "Testando o Json"
     },
     {
       "id": 4,
       "imagem": "assets/img/cardnews.jpg",
       "titulo": "Teste",
-      "descrição": "Testando o Json"
+      "descricao": "Testando o Json"
     },
     {
       "id": 5,
       "imagem": "assets/img/cardnews.jpg",
       "titulo": "Teste",
-      "descrição": "Testando o Json"
+      "descricao": "Testando o Json"
     },
     {
       "id": 6,
       "imagem": "assets/img/cardnews.jpg",
       "titulo": "Teste",
-      "descrição": "Testando o Json"
+      "descricao": "Testando o Json"
     }
   ]
 }
