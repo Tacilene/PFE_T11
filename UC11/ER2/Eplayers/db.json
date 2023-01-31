@@ -23,6 +23,12 @@
       "password": "$2a$10$sGkuwl.J1TYsEZ9OkfxA3uHIWLuTqxYC6hPeZ2afoRrxnCrG/avuu",
       "nome": "Luiz",
       "id": 4
+    },
+    {
+      "email": "tacilenefrontend@gmail.com",
+      "password": "$2a$10$bI8RSiuBSVWjrdG1EVICS.JrzHXXD1LrAKNxl.WYSY/uhUN8kcrXi",
+      "nome": "tacilenepalheta",
+      "id": 5
     }
   ],
   "noticias": [
